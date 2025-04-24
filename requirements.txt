@@ -1,0 +1,4 @@
+paramiko~=3.5.1
+python-nmap~=0.7.1
+pyexcel~=0.7.3
+loguru
